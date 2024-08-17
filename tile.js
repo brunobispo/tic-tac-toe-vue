@@ -1,5 +1,5 @@
 export default {
-  props: ['marker', 'index'],
+  props: ['marker'],
   template: `
     <button class="tile">
       {{ marker }}
